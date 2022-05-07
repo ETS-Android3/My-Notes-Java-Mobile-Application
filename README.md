@@ -6,4 +6,10 @@ Use would be able to:
  - Delete a particular Task by swipping right
 
 Preview of the Application:
-<video src='/videos/preview.mp4' width=180/>
+
+
+https://user-images.githubusercontent.com/73556387/167256821-2ae715bc-ad0c-4d39-ab60-2d346e3b8b50.mp4
+
+
+------
+
